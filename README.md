@@ -3,9 +3,8 @@
 ## Overview
 A Streamlit-based web application that generates personalized New Year greeting images using AI. Users can select themes or create custom prompts, and share the generated images via download, clipboard, or WhatsApp.
 
-```markdown
+
 ![Screenshot](screenshot.png)
-```
 
 ## Features
  - Personalized image generation with name integration
