@@ -13,7 +13,7 @@ A Streamlit-based web application that generates personalized New Year greeting 
  
 ## Image sharing capabilities:
  - Direct download
- - Clipboard copying
+ - Clipboard copying(Only for macbook)
  - WhatsApp sharing
 
 ## Prerequisites
@@ -35,5 +35,6 @@ The application requires:
 
 ## How to run
 ```sh
+pip install -r requirements.txt
 streamlit run app.py
 ```

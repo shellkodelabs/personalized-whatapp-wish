@@ -1,0 +1,8 @@
+streamlit
+Pillow
+boto3
+pywhatkit
+pyperclip
+validators
+numpy
+pandas
